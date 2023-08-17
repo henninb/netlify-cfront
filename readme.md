@@ -1,3 +1,9 @@
+IAM
+Security credentials
+Create access key
+
+aws configure
+
 Deploy this code to AWS Cloudfront with an S3 Bucket
 create an s3 bucket: cfront.bhenning.com
 default configuration
